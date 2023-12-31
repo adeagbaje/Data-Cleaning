@@ -24,6 +24,8 @@ To begin the cleaning process, the dataset was imported into Microsoft Power BI.
 Below is the data after cleaning
 ![After Cleaning the data](https://github.com/adeagbaje/Data-Cleaning/assets/65424574/e841a240-5c81-4ba1-8ae8-a1483502110f)
 
+# Data Visualization
+
 The process ended with a clean dataset having 127 rows and 10 Columns. I identified the top 5 prevalent ages, determined the bank with the largest transaction share, and visualized the distribution of transaction channels.
 
 Below is the Power BI report published to the Power BI service https://app.powerbi.com/reportEmbed?reportId=2075787e-b3fe-4967-a1b2-823d4b5169ee&autoAuth=true&ctid=a779535f-7869-42f5-ab18-44eb4d83e02c
