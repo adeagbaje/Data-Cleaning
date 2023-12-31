@@ -1,1 +1,3 @@
 # Data-Cleaning
+
+Data is omnipresent, yet in its raw form, it often lacks suitability for extracting insights to address business challenges. Consequently, upon data collection, it becomes crucial to undergo a cleaning process. Ensuring data cleanliness enhances overall productivity and facilitates the highest quality of information for decision-making. I embarked on a Data Cleaning Project using Power Query. Key tasks in this project encompassed organizing it into a table with a minimum of 7 columns, identifying the top 5 prevalent ages, determining the bank with the largest transaction share, and visualizing the distribution of transaction channels.
